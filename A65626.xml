@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True newes from Ireland, or, The state of Dublin as it stood the 27 of December, and other parts of Ireland being the copy of a letter sent from a good hand to an alderman of this city shewing that they attempt the blocking up of Dublin and to that end are building two sconces at the havens mouth, out of the command of the castle, upon which they have mounted 12 pieces of ordnance, by reading which you shall find the vanity and falshood of those foolish pamphlets invented and published of late : with a strange and unheard of flocking together of severall kinds of birds over the city of Dublin on Christmas Eve last.</title>
+            <author>Whetcombe, Tristram.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65626</idno>
+            <idno type="STC">Wing W1639A</idno>
+            <idno type="STC">ESTC R27064</idno>
+            <idno type="EEBO-CITATION">09638419</idno>
+            <idno type="OCLC">ocm 09638419</idno>
+            <idno type="VID">43870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1346:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True newes from Ireland, or, The state of Dublin as it stood the 27 of December, and other parts of Ireland being the copy of a letter sent from a good hand to an alderman of this city shewing that they attempt the blocking up of Dublin and to that end are building two sconces at the havens mouth, out of the command of the castle, upon which they have mounted 12 pieces of ordnance, by reading which you shall find the vanity and falshood of those foolish pamphlets invented and published of late : with a strange and unheard of flocking together of severall kinds of birds over the city of Dublin on Christmas Eve last.</title>
+                  <author>Whetcombe, Tristram.</author>
+               </titleStmt>
+               <extent>[5] p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.C. and J.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The copy of a letter sent from Dublin Decemb. 27, 1641 by Tristum Witcome.</note>
+                  <note>Signed: T.W.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43870:1"/>
+            <pb facs="tcp:43870:1"/>
+            <p>True Newes from IRELAND.</p>
+            <p>Or the ſtate of DUBLIN, As it ſtood the 27 <hi>of December,</hi> and of other parts of IRELAND.</p>
+            <p>Being the Copy of a Letter ſent from a good hand, to an Alderman of this City.</p>
+            <p>Shewing that they attempt the blocking up of <hi>Dublin,</hi> and to that end are building two Sconces, at the Havens Mouth, out of the command of the Caſtle, upon which they have moun<g ref="char:EOLhyphen"/>ted 12 pieces of Ordnance.</p>
+            <p>By reading which, you ſhall find the Vanity and falſhood of thoſe fooliſh Pamphlets, in<g ref="char:EOLhyphen"/>vented and publiſhed of late.</p>
+            <p>With a ſtrange and unheard of flocking together of ſeverall kinds of Birds over the City of <hi>Dublin,</hi> on Chriſtmas Eve Laſt.</p>
+            <p>London, Printed, for F. C. and J.W. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43870:2"/>
+            <pb facs="tcp:43870:2"/>
+            <head>The Copy of a Letter ſent from Dublin, Decemb. 27 1641. by <hi>Triſtum Witcome,</hi> a Factor there for a worthy Alderman of this City, declaring in what ſtate the City there ſtands, with the ſtrange and ſudden departure of two Aldermen from thence, and the ſtrange ſight on <hi>Christmas</hi> Eve.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <div type="part">
+               <p>OUr miſeries are great, our feares more, if ſpee<g ref="char:EOLhyphen"/>dy reliefe doe not ſuddenly arrive, hunger will certainely be more plentifull with us then bread; for the Rebels who daily increaſe have blocked up all paſſage two wayes into the City, ſo that Southward from Dongarvil, and Northeaſt from Clannoroe, no proviſion of victuall can come at us; neither can the preſent Garriſon here be ſpared to cleare thoſe parts. It ſtands farre worſe with this City (God knowes) then the world with you will beleeve, otherwiſe they would not be ſo ſlow of their ſuccours, as to our woes we find they are. For the Rebels grow ſtrong, &amp;
+<pb facs="tcp:43870:3"/>withall ſo daring, that they attempt the blocking up of the very harbour of Dublin, and to that end are building two Sconces at the Havens mouth, out of the command of the Caſtle, whereupon they gave al<g ref="char:EOLhyphen"/>ready mounted twelve iron Peeces, howſoever they came by them: ſo that if they be not prevented, and that with ſeſonable opportunity, (which God in his mercy grant) they will not onely ſtop and hinder all our Poſts and Meſſengers for England, but likewiſe be able to debarre and affront what ſuccours ſhould come from thence to us.</p>
+               <p>The Engliſh not without juſt ground are in exce<g ref="char:EOLhyphen"/>ding great jealouſie and ſuſpition of the Iriſh inhabi<g ref="char:EOLhyphen"/>tants of the City, who although they make us faire countenance, as whoſe viſage and habits ſort with ours, yet their hearts and good wiſhes it is to be fea<g ref="char:EOLhyphen"/>red are with the Rebels. Apparences are good proofs. Vpon the Eve of Saint <hi>Thomas</hi> Decemb. 20. two of the Aldermen of Dublin, Mr. <hi>Dominick Roch</hi> and Mr. <hi>Patrick Copingar</hi> fled our of Dublin, with their wives children, and whole families, whither, God knowes, but ſurely all is not well; their houſes being obſerved to ſtand ſhut up for the ſpace of two dayes together, without ingreſſe or egreſſe of any, either maſter, ſer<g ref="char:EOLhyphen"/>vant, or neighbour notice being thereof taken, at laſt report being thereof made unto the two Iuſtices, it was thought fit by them to ſend officers and ſouldiers who upon command to open, and none anſwering, forced the doores; but being entred found nothing within confiderable, in reſpect of their eſtates and qualities, which giveth great cauſe of iealouſie unto the ſaid Iuſtices, and to all loyall Engliſh, that theſe
+<pb facs="tcp:43870:3"/>Aldermen are not onely fled and ſtolne away to the Rebels, but further have diſcovered whatſoever may be advantagious unto them, as touching the ſtate of the ſaid City: as likewiſe of carrying a heedfull and watchfull eye over the reſt: for it is greatly to be ſuſ<g ref="char:EOLhyphen"/>pected that the Rebels have more intelligence in this City, then ſtands for our profit; ſeeing that they make daily approaches towards us, ſometimes in leſſer bo<g ref="char:EOLhyphen"/>dies, ſometimes in greater; ſometime on horſe-backe, ſometime onely with their ſoot; now ſtaying onger, now retiring ſooner, now drawing neerer the City, now retiring farther off, as they that looked for ſome ſigne or token of advantage to be ſhewed out of the City: and which increaſeth our feares the more, is that the two great Rebels that have the command of theſe rebellious troopes that now are neareſt the Ci<g ref="char:EOLhyphen"/>ty, are <hi>Mack Odonnel,</hi> and <hi>Charles Mark Carty,</hi> who have but two great alliance, kindred, coſin germans, friends, feſter fathers or foſter mothers, or foſter brethren in this City.</p>
+               <p>I am heartily ſory of what you writ mee the laſt weeke, that the King and the Parliament diſagreeing about the preſſing of men for Ireland: for I am much afraid that if the Parliament will have no men to bee preſſed for that ſervice, but what come hither to come voluntary, I am afraid that out helpe will come too late, if any come at all. Although it be true that there hath beene divers skirmiſhes in the Country, wherein (God be praiſed) our people have had the better, yet we have loſt men likewiſe, and ſome brave and wor<g ref="char:EOLhyphen"/>thy Commanders: and although wee bee weakned through victory, yet weakned wee are by reaſon that
+<pb facs="tcp:43870:4"/>we have no ſupply, and are but few in reſpect of the enemy, and their number daily increaſe.</p>
+            </div>
+            <div type="part">
+               <head>A ſtrange and wonderfull thing by Fowles.</head>
+               <p>A Moſt ſtrange and unwonted accident happned in Dublin on Chriſtmas Eve, as ever was heard of the Crowes, Ravens, and Sea Gulls, about foure of the clocke in the afternoone, being duske, aſſembled in ſuch a numerous manner, hovering, pewling and croaking in ſuch a ſtrange unheard of wiſe over the City, that it amazed and affrighted all the inhabi<g ref="char:EOLhyphen"/>tants; eſpecially they continuing without departing in this ſort, untill ſix of the ſaid evening: a ſtrange time of night for ſuch Fowle to be abroad at, at ſuch a time of the yeare. And which is more ſtrange, that could not be frighted nor ſcared away with all the reports of Muſkets, and ſome great Peeces out of the Caſtle that were ſhot off for rhat purpoſe. What this ſtrange accident meanes or portends is not for me to divine: but ſurely by the knowledge of the ol<g ref="char:EOLhyphen"/>deſt men in Dublin, either England or Iriſh, never the like was ſeene.</p>
+               <pb facs="tcp:43870:4"/>
+               <p> Concerning other matter of trade, it behooveth rather to thinke of calling in, if we can, then of ſend<g ref="char:EOLhyphen"/>ing any thing elſe over. Which if I can any reaſona<g ref="char:EOLhyphen"/>ble way accompliſh, you ſhall by Gods permiſſion ſhortly ſee me in London: till then, deſiring you and all our friends to implore the aſſiſtance of Heaven for us here, I reſt,</p>
+            </div>
+            <closer>
+               <signed>Your Servant, T, W,</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:43870:5"/>
+            <p>
+               <figure/>
+            </p>
+            <pb facs="tcp:43870:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
